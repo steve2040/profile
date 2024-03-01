@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **Stephen Munyao Wambua**,
-A passionate Software Developer from Kenya 🇰🇪.
+A passionate Data Engineer from Kenya 🇰🇪.
 
 🌱 On Part time i serve as a **DevOps Technical Mentor** at  [MobAnn Technologies](https://mobanntechnologies.com/).
 
