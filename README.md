@@ -7,8 +7,8 @@ A passionate Software Developer from Kenya 🇰🇪, with a focus on Data Engine
 
 ## Tech Stack
 ### Data Engineering
-- **Big Data Frameworks**: Apache Hadoop, Apache Spark
-- **Data Processing**: Apache Kafka, Apache Flink
+- **Big Data Frameworks**: Apache Hadoop
+- **Data Processing**: Apache Kafka
 - **Data Warehousing**: Google BigQuery
 - **Data Transformation**: dbt (data build tool)
 - **Data Pipeline Orchestration**: Apache Airflow
